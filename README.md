@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Max and I'm a Fronted Developer, from Ukraine.</h2>
-<p align="left">I am a young teenager who really want study programming. I may be don`t know many things but i love studing something new and intersting. So, i think programming for me it`s my path to a really good feature!</p>
+<p align="left">I am a young teenager who really want study programming. I may be don`t know many things but i love studing something new and intersting. So, i think programming for me it`s my path in good feature!</p>
 
 ###
 
